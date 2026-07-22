@@ -1,7 +1,7 @@
 strContent = <size=24>FILE ĐƯỢC TẠO VÀ HOÀN THÀNH BỞI</size>\n<b><color=#FF6E6E>YouTube:</color> KM MOD Z</b>\n\n<i><size=16>...</size></i>
 hasCancelBtn = true
-onConfirm = nil
-onCancel = https://youtube.com/@kmmod.z
+onConfirm = https://youtube.com/@kmmod.z
+onCancel = nil
 confirmStr = Đăng Ký
 cancelStr = Tiếp Tục
 titleStr = Title
