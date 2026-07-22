@@ -1,8 +1,8 @@
-strContent = <size=24>FILE ĐƯỢC TẠO VÀ HOÀN THÀNH BỞI</size>\n<b><color=#FF6E6E>YouTube:</color> KM MOD Z</b>\n\n<i><size=16>...</size></i>
+strContent = File được hoàn thành bởi <b><i>KM Mod Z</i></b>.\n<color=#FF0000>Youtube</color>: <b><i>KM Mod Z</i></b>.\n<color=#00BFFF>Telegram</color>: @kmmodaov.\n\nĐể được hỗ trợ, vui lòng nhắn qua Telegram.\nĐể tiếp tục vào game trải nghiệm mod, hãy nhấn "Đã hiểu"
 hasCancelBtn = true
-onConfirm = https://youtube.com/@kmmod.z
-onCancel = nil
-confirmStr = Đăng Ký
-cancelStr = Tiếp Tục
-titleStr = Title
-isShowCloseBtn = false
+onConfirm = nil
+onCancel = https://www.youtube.com/@kmmod.z
+confirmStr = Đã hiểu
+cancelStr = Youtube Channel
+titleStr = Mod By YTB: <b><i>KM Mod Z</i></b>
+isShowCloseBtn = true
