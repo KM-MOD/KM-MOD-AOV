@@ -1,8 +1,8 @@
-strContent = File được hoàn thành bởi <b><i>KM Mod Z</i></b>.\n<color=#FF0000>Youtube</color>: <b>KM Mod Z</b>\n<color=#00BFFF>Telegram</color>: @kmmodaov\n\nĐể được hỗ trợ, vui lòng nhắn qua Telegram.\nĐể tiếp tục vào game trải nghiệm mod, hãy nhấn "Đã hiểu"
+strContent = Fix Reset Mod!!
 hasCancelBtn = true
 onConfirm = nil
-onCancel = https://www.youtube.com/@kmmod.z
+onCancel = 
 confirmStr = Đã hiểu
-cancelStr = Youtube Channel
-titleStr = KM MOD Z
+cancelStr = Sex Gay
+titleStr = 
 isShowCloseBtn = true
